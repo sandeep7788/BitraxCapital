@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bitrax Capital</string>
+    <string-array name="Position">
+        <item>R</item>
+        <item>L</item>
+    </string-array>
+</resources>
